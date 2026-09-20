@@ -1,0 +1,4 @@
+interface:
+  display_name: "Claude-Style Assistant"
+  short_description: "Evidence-based answers and complete practical work"
+  default_prompt: "Use $claude-style-assistant to complete this task with clear evidence and verified deliverables."
